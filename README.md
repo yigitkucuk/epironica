@@ -7,10 +7,6 @@ datasets:
 - yigitkucuk/autotrain-data-row-eval
 ---
 
-# Caution
-- pytorch_model.bin has not been added yet, due to its large size.
-- pytorch_model.bin can be reached on huggingface repository.
-
 # Model
 
 - Problem type: Multi-class Classification
