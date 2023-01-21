@@ -3,8 +3,6 @@ tags:
 - text-classification
 language:
 - en
-widget:
-- text: "Your text here"
 datasets:
 - yigitkucuk/autotrain-data-row-eval
 ---
