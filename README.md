@@ -51,6 +51,17 @@ inputs = tokenizer("Your text here", return_tensors="pt")
 outputs = model(**inputs)
 ```
 
+## Download With a Python Script
+
+```py
+from huggingface_hub import snapshot_download
+
+snapshot_download(repo_id="yigitkucuk/Not-My-Hat", revision="main")
+```
+
 ## Reach This Model on Huggingface
 
+```
 https://huggingface.co/yigitkucuk/Not-My-Hat
+```
+
