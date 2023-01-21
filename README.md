@@ -7,15 +7,12 @@ widget:
 - text: "Your text here"
 datasets:
 - yigitkucuk/autotrain-data-row-eval
-co2_eq_emissions:
-  emissions: 3.243662516902224
 ---
 
 # Model
 
 - Problem type: Multi-class Classification
 - Model ID: 2994886333
-- CO2 Emissions (in grams): 3.2437
 
 ## Validation Metrics
 
